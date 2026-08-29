@@ -1,0 +1,13 @@
+to create a new react app command
+
+npx create-react-app 01basicreact
+but we do not use this command because it takes time and has lot of bunndle of data
+to run app
+npm run start
+
+to run using vite react
+npm create vite@latest
+selet optons
+to run
+npm install this will install node modules
+npm run dev
