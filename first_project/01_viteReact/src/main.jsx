@@ -16,7 +16,7 @@ const anotherUser="vartak"
 const reactElement=React.createElement(
   'a',
   {href:'https://google.com',target:'_blank'},
-  'click me to visit google]',
+  'click me to visit google ',
   anotherUser
 )
 createRoot(document.getElementById('root')).render(
